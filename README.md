@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemangiremulkar" alt="hemangiremulkar" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile testing using Appium**
+- 🔭 I’m currently working on **Selenium using Python**
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently learning **Cypress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HemangiRemulkar](https://github.com/HemangiRemulkar)
 
